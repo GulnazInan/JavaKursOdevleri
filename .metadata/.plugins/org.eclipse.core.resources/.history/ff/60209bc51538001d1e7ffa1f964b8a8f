@@ -1,0 +1,13 @@
+package miniProjeAsalSayı;
+
+public class miniProjeAsalSayı {
+
+	public static void main(String[] args) {
+		int number = 25;
+		int remainder = number ½ 2;
+		System.out.println(remainder);
+	
+
+	}
+
+}

@@ -1,0 +1,22 @@
+package quiz1;
+
+public class quiz1 {
+
+	public static void main(String[] args) {
+		/*Kullanıcıdan, 2 adet sayı al, ve bu sayıları bir değişkende tut, 
+		Bu iki sayının birbirleriyle olan ilişkisini ekrana bastırın (büyük, küçük, ve eşittir durumları)
+		ayrıca bu sayıların toplamlarının çift olup olmama durumunu ekrana bastırın
+
+		[Örnek çıktı] : 
+
+		1. sayıyı giriniz : 15
+		2. sayıyı giriniz : 25
+
+		Sayı 2 sayı birden büyüktür,
+		ve iki sayının toplamı çifttir*/
+		
+		
+
+	}
+
+}

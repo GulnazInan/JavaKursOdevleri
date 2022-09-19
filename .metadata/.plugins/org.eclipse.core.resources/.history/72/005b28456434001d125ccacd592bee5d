@@ -1,0 +1,16 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		System.out.println("Hello world!");
+		
+		//değişken isimlendirmeleri java'da camelCase yazılır. kelimenin ilk harfi küçük, ikinci kelime büyük.
+		String ortaMetin ="İlginizi Çekebilir";
+		String altMetin ="Vade süresi";
+		
+		System.out.println();
+		
+		
+	}
+
+}

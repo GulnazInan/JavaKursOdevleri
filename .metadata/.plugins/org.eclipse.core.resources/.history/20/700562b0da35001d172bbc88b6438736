@@ -1,0 +1,27 @@
+package conditionals;
+
+public class conditionals {
+
+	public static void main(String[] args) {
+		
+		int sayi = 19;
+		if (sayi<20) {
+			System.out.println("Sayı 20 den küçüktür");
+		}
+		
+		if (sayi>15) {
+			System.out.println("Sayı 15 ten büyüktür");	
+				
+		}
+		
+		int sayi2 = 25;
+		if (sayi2>20){
+			System.out.println("Sayı 20 den küçük değildir");
+			
+			
+		}
+    
+			
+	}
+
+}
