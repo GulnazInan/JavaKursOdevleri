@@ -1,6 +1,6 @@
 package mukemmelSayi;
 
-public class mukemmelSayi {
+public class MukemmelSayi {
 
 	public static void main(String[] args) {
 		// 6 -->1,2,3

@@ -1,6 +1,6 @@
 package arkadaşSayilar;
 
-public class arkadaşSayilar {
+public class ArkadaşSayilar {
 
 	public static void main(String[] args) {
 		// 220-284

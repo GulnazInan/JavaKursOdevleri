@@ -1,6 +1,6 @@
 package stringsDemo1;
 
-public class stringsDemo1 {
+public class StringsDemo1 {
 
 	public static void main(String[] args) {
 

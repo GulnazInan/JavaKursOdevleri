@@ -1,6 +1,6 @@
 package miniProjeAsalSayı;
 
-public class miniProjeAsalSayı {
+public class MiniProjeAsalSayı {
 
 	public static void main(String[] args) {
 		int number = -2;

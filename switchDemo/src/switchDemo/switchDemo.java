@@ -1,6 +1,6 @@
 package switchDemo;
 
-public class switchDemo {
+public class SwitchDemo {
 
 	public static void main(String[] args) {
 		char grade = 'B';
